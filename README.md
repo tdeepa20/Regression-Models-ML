@@ -7,7 +7,7 @@ This repository contains hands-on machine learning projects using different regr
 - polynomial Regression
 - Ridge Regression
 - Lasso Regression
-- 
+
 Each model folder includes:
 - Jupyter Notebook
 - Dataset (if applicable)
